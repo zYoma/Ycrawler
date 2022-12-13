@@ -1,0 +1,26 @@
+# byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# mypy
+.mypy_cache/
+
+# C extensions
+*.so
+
+celerybeat*
+.idea
+/venv
+/shared
+/docker
+/**/temp/*
+
+.DS_Store
+.coverage
+.pytest_cache
+
+
+/log/
+/venv/
+/sites
